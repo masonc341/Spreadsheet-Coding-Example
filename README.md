@@ -15,3 +15,8 @@ Clear (clears spreadsheet) <br>
 ## Sorting 
 sorta \<Cell Name\>-\<Cell Name\> (sorts in ascending order) <br>
 sortd \<Cell Name\>-\<Cell Name\> (sorts in decending order) <br>
+
+# Instructions:
+[Part A](https://drive.google.com/file/d/1U7FrE0eIqotDyvBjDqyznrFfOn38jhp2/view) <br>
+[Part B](https://drive.google.com/file/d/1U8Qf2FmxzU7_jN1gQ6gtJJAxvWlDy180/view)  
+[Part C](https://drive.google.com/file/d/1U9UrKc0XYxEjXsmRQ9-FqN4jV3R_N6s3/view)  
